@@ -1,0 +1,11 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/826568/f0fc65f7365649e78dee4429c0a20ddb
+bundleId: https://api.rpubs.com/api/v1/document/826568/f0fc65f7365649e78dee4429c0a20ddb
+url: http://rpubs.com/benpry/826568
+when: 1635145141.12107
+lastSyncTime: 1635145141.12107

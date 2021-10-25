@@ -33,7 +33,7 @@ The main challenge I anticipate is getting the experiment to run properly. While
 
 Project repository (on Github): [https://github.com/psych251/chopra2019](https://github.com/psych251/chopra2019)
 
-Original paper (as hosted in your repo): [https://github.com/psych251/chopra2019/original_paper/0060.pdf](https://github.com/psych251/chopra2019/original_paper/0060.pdf)
+Original paper (as hosted in your repo): [https://github.com/psych251/chopra2019/blob/master/original_paper/0060.pdf](https://github.com/psych251/chopra2019/blob/master/original_paper/0060.pdf)
 
 ## Methods
 

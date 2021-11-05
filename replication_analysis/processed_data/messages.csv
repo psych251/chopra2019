@@ -1,0 +1,55 @@
+,game_id,role,round_num,rule_idx,text,time
+0,5176-5a07bdb3-f5cf-45ae-9713-aa01f37770f1,explorer,0,4,"""asdf""",1635449398283
+1,5176-5a07bdb3-f5cf-45ae-9713-aa01f37770f1,student,0,4,"""fdsa""",1635449402461
+2,0505-a6be075e-30fa-48a2-8e63-db770d77e7b0,explorer,0,40,"""hi""",1635451923233
+3,0505-a6be075e-30fa-48a2-8e63-db770d77e7b0,student,0,40,"""If you can read this in Atlas, heroku is sending the data properly""",1635451936464
+4,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,explorer,0,32,"""Hello!""",1635530597270
+5,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,student,0,32,"""Hi!""",1635530600210
+6,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,explorer,0,32,"""Zorbs are trees with white leaves. Their trunks can be any color and their berries can be any color""",1635530614600
+7,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,explorer,0,32,"""But I know that can't be quite right""",1635530624228
+8,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,explorer,0,32,"""Because one Zorb had colored leaves""",1635530633128
+9,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,explorer,0,32,"""It was very odd""",1635530639868
+10,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,student,0,32,"""Ok, but if I select all the trees with white leaves I should do alright?""",1635530646101
+11,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,explorer,0,32,"""I think so :)""",1635530650909
+12,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,student,0,32,"""Alright, thanks!""",1635530656430
+13,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,explorer,1,2,"""Morseths are fishes with big fangs""",1635530998577
+14,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,explorer,1,2,"""Fangs like a sabretooth tiger""",1635531010609
+15,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,student,1,2,"""got it. Is everything with a big fang a moreseth?""",1635531030249
+16,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,explorer,1,2,"""yes""",1635531035195
+17,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,student,1,2,"""sounds simple enough""",1635531039905
+18,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,explorer,1,2,"""well, they're all fishes""",1635531042368
+19,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,explorer,2,22,"""Hey""",1635531342319
+20,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,student,2,22,"""hello!""",1635531349042
+21,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,explorer,2,22,"""Ok this one was really hard""",1635531353796
+22,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,explorer,2,22,"""Kewps are birds""",1635531362181
+23,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,explorer,2,22,"""All the birds (not just Kewps) have head feathers and tail feathers""",1635531380060
+24,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,explorer,2,22,"""Kewps appear to have purple or orange heads, bodies, head feathers and tail feathers""",1635531409856
+25,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,explorer,2,22,"""but with a little bit of white""",1635531418183
+26,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,explorer,2,22,"""so if the bird is all colored, it's not a Kewp""",1635531435428
+27,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,explorer,2,22,"""for example, if its head and body and wings are purple and its head and tail feathers are orange""",1635531457522
+28,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,explorer,2,22,"""It's not a Kewp""",1635531461091
+29,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,student,2,22,"""ok, so it has to have at least one white part?""",1635531472708
+30,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,explorer,2,22,"""It needs to have white""",1635531474131
+31,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,explorer,2,22,"""yeah""",1635531475064
+32,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,explorer,2,22,"""Best as I can tell""",1635531479515
+33,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,explorer,2,22,"""Ready when you are :)""",1635531497005
+34,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,student,2,22,"""got it!""",1635531497039
+35,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,explorer,3,42,"""Ok""",1635531849479
+36,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,explorer,3,42,"""We're looking at flowers""",1635531853871
+37,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,explorer,3,42,"""There was one luzack that didn't quite fit the pattern""",1635531871510
+38,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,student,3,42,"""flowers are great""",1635531874839
+39,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,explorer,3,42,"""So what I'm about to say isn't entirely correct""",1635531878317
+40,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,explorer,3,42,"""But""",1635531879371
+41,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,explorer,3,42,"""We're looking for thorny stems""",1635531886179
+42,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,explorer,3,42,"""Neither the petals nor the centers nor the whiskers seem to matter""",1635531905719
+43,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,explorer,3,42,"""Either in their presence/absence or in their color""",1635531917418
+44,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,explorer,3,42,"""But we should do ok if we go for spiky stems""",1635531929365
+45,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,student,3,42,"""ok, so the ones with thorny stems are probably luzaks?""",1635531940731
+46,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,explorer,3,42,"""yeah""",1635531944257
+47,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,student,3,42,"""alright, going with that!""",1635531951383
+48,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,explorer,4,12,"""Alright :)""",1635532143474
+49,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,explorer,4,12,"""LAst round""",1635532146967
+50,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,explorer,4,12,"""Ollers are butterflies with white heads and purple legs""",1635532157726
+51,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,explorer,4,12,"""That's it""",1635532159293
+52,0370-36ff4474-c3ec-40e2-9527-c75b95ee3916,student,4,12,"""got it, that seems simple enough""",1635532172201
+53,7375-24384b39-29e4-4844-9894-f3cfcddcfff9,explorer,0,4,"""asdf""",1636130754218

@@ -7,7 +7,7 @@ parser = ArgumentParser()
 parser.add_argument("filename", type=str)
 
 RAW_DATA_FOLDER = "./raw_data"
-OUTPUT_FOLDER = "./processed_data"
+OUTPUT_FOLDER = "./processed_data/pilotB"
 
 if __name__ == "__main__":
 
@@ -61,9 +61,9 @@ if __name__ == "__main__":
             }
             messages.append(e)
 
-        elif entry["eventType"] == "logSubjInfo" and "prolificId" in entry:
+        elif entry["eventType"] == "prolificId":
             e = {
-                "game_id": entry["gameid"],
+                "game_id": entry["gameId"],
                 "role": entry["role"],
                 "prolific_id": entry["prolificId"]
             }

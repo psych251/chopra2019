@@ -1,0 +1,362 @@
+,game_id,role,round_num,rule_idx,text,time
+0,5514-bb081ca4-4593-474b-84e4-cc79851c10b1,explorer,0,8,"""hello""",1638463900728
+1,5514-bb081ca4-4593-474b-84e4-cc79851c10b1,explorer,0,8,"""i think the morseths are only 2 colors at the most""",1638463909340
+2,7265-de683552-bac6-45cb-8884-c2904b92ca54,student,0,46,"""Hi!""",1638463962786
+3,7265-de683552-bac6-45cb-8884-c2904b92ca54,explorer,0,46,"""Hi """,1638463964185
+4,7265-de683552-bac6-45cb-8884-c2904b92ca54,explorer,0,46,"""the species will have rigged legs - NOT STRAIGHT""",1638463988120
+5,7265-de683552-bac6-45cb-8884-c2904b92ca54,explorer,0,46,"""at least 6""",1638463995102
+6,7265-de683552-bac6-45cb-8884-c2904b92ca54,student,0,46,"""OK, not straight legs, got it. """,1638464001358
+7,7265-de683552-bac6-45cb-8884-c2904b92ca54,student,0,46,"""Anything else I need to know?""",1638464006359
+8,7265-de683552-bac6-45cb-8884-c2904b92ca54,explorer,0,46,"""at the tail end, there is a circular part which has to be purple""",1638464025270
+9,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,student,0,1,"""Hello!""",1638464028448
+10,7265-de683552-bac6-45cb-8884-c2904b92ca54,student,0,46,"""OK""",1638464031235
+11,7265-de683552-bac6-45cb-8884-c2904b92ca54,student,0,46,"""Is that it?""",1638464047013
+12,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,explorer,0,1,"""HI! Plants of the morseth species are flowers that have thorns on their stalks. They may or may not have tendrils coming out of their petals.""",1638464048108
+13,7265-de683552-bac6-45cb-8884-c2904b92ca54,explorer,0,46,"""doesnt matter if they have antennas""",1638464057735
+14,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,explorer,0,30,"""Hi """,1638464061760
+15,7265-de683552-bac6-45cb-8884-c2904b92ca54,student,0,46,"""OK""",1638464061972
+16,7265-de683552-bac6-45cb-8884-c2904b92ca54,explorer,0,46,"""just the circular bit has to be there""",1638464070413
+17,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,student,0,30,"""Hello!""",1638464075671
+18,7265-de683552-bac6-45cb-8884-c2904b92ca54,student,0,46,"""Got it""",1638464078509
+19,7265-de683552-bac6-45cb-8884-c2904b92ca54,explorer,0,46,"""at the bottom half of their body""",1638464079681
+20,7265-de683552-bac6-45cb-8884-c2904b92ca54,student,0,46,"""OK""",1638464083998
+21,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,explorer,0,1,"""And their petals seem to come in any colour. """,1638464085132
+22,7265-de683552-bac6-45cb-8884-c2904b92ca54,explorer,0,46,"""purple*""",1638464092081
+23,7265-de683552-bac6-45cb-8884-c2904b92ca54,student,0,46,"""Yep. Continue, then, if that's it?""",1638464102688
+24,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,student,0,1,"""is that all I need to know, that there are thorns on the stalks?""",1638464104052
+25,7265-de683552-bac6-45cb-8884-c2904b92ca54,explorer,0,46,"""i think thats iy""",1638464107725
+26,7265-de683552-bac6-45cb-8884-c2904b92ca54,explorer,0,46,"""it""",1638464109475
+27,7265-de683552-bac6-45cb-8884-c2904b92ca54,student,0,46,"""Sure it'll make sense when I see them. """,1638464112947
+28,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,explorer,0,30,"""The creatures ""zorbs"" always have yellow beaks. They can have a variety of feathers in different place from just the bottom right up to being fully feathered""",1638464123036
+29,7111-bc378748-4c72-449d-924b-df4dce9057b1,explorer,0,33,"""I'm not too sure it was very confusing""",1638464130247
+30,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,explorer,0,1,"""That's the only thing I can find in common among all the Morseths. """,1638464132253
+31,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,explorer,0,30,"""The owl like bodies seem to only be white, purple or orange in colour """,1638464142587
+32,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,student,0,1,"""ok good enough for me""",1638464144700
+33,5514-bb081ca4-4593-474b-84e4-cc79851c10b1,explorer,1,28,"""i think the correct fish have either whiskers or teeth but not both""",1638464145356
+34,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,student,0,1,"""If that is all, I'm going to continue""",1638464154198
+35,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,explorer,0,1,"""Ok!""",1638464156332
+36,7111-bc378748-4c72-449d-924b-df4dce9057b1,explorer,0,33,"""It seemed more likely they were not a zorb if they had less leaves and less colour""",1638464159066
+37,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,explorer,0,30,"""The feathers seemed to be predominantly white """,1638464160407
+38,7111-bc378748-4c72-449d-924b-df4dce9057b1,explorer,0,33,"""The zorbs typically had both fruit and leaves""",1638464177135
+39,5514-bb081ca4-4593-474b-84e4-cc79851c10b1,student,1,28,"""what colour are they?""",1638464178904
+40,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,explorer,0,30,"""It was actually really hard to determine differences between the creatures eek! """,1638464183077
+41,5514-bb081ca4-4593-474b-84e4-cc79851c10b1,explorer,1,28,"""they can be any color""",1638464187825
+42,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,student,0,30,"""Okay all that information is very helpful, thank you!""",1638464188867
+43,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,explorer,0,30,"""They all looked the same in my opinion """,1638464190400
+44,5514-bb081ca4-4593-474b-84e4-cc79851c10b1,explorer,1,28,"""or comination""",1638464190696
+45,7111-bc378748-4c72-449d-924b-df4dce9057b1,student,0,33,"""Hi, they were plants rather than animals?""",1638464196638
+46,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,explorer,0,30,"""But fingers crossed!""",1638464198818
+47,7111-bc378748-4c72-449d-924b-df4dce9057b1,explorer,0,33,"""they were plants""",1638464207191
+48,5514-bb081ca4-4593-474b-84e4-cc79851c10b1,student,1,28,"""so whiskers or teeth? i'll try that.""",1638464210057
+49,7111-bc378748-4c72-449d-924b-df4dce9057b1,explorer,0,33,"""they looked like little trees""",1638464212113
+50,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,student,0,30,"""Oh no! I think you did a good job trying to explain the differences though so hopefully we are successful. """,1638464213309
+51,5514-bb081ca4-4593-474b-84e4-cc79851c10b1,explorer,1,28,"""okay!""",1638464218569
+52,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,student,0,30,"""Is there anything else to add before we move on?""",1638464222351
+53,9125-79b4dcf2-defd-4628-afa6-2e31dc5999bc,student,0,12,"""hi""",1638464223720
+54,9125-79b4dcf2-defd-4628-afa6-2e31dc5999bc,explorer,0,12,"""white wings with purple feet""",1638464228337
+55,7111-bc378748-4c72-449d-924b-df4dce9057b1,student,0,33,"""Was the size consistent?""",1638464229678
+56,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,explorer,0,30,"""No I think that covers it """,1638464229725
+57,5514-bb081ca4-4593-474b-84e4-cc79851c10b1,student,1,28,"""pity chat didn't work last time!""",1638464235550
+58,7111-bc378748-4c72-449d-924b-df4dce9057b1,explorer,0,33,"""Yes the sizes were all the same""",1638464239427
+59,9125-79b4dcf2-defd-4628-afa6-2e31dc5999bc,explorer,0,12,"""and orange antenna""",1638464242229
+60,7111-bc378748-4c72-449d-924b-df4dce9057b1,student,0,33,"""Any common colours?""",1638464249050
+61,5514-bb081ca4-4593-474b-84e4-cc79851c10b1,explorer,1,28,"""oh no, i typed something but i guess it didnt go through?""",1638464251504
+62,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,explorer,0,34,"""Zorbs all had an orange center of the flower.""",1638464253939
+63,2438-ec0ee85f-c872-456b-99d4-1723e0dd5058,student,0,49,"""hello""",1638464260301
+64,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,student,0,30,"""Okay I am ready to move on if you are""",1638464260574
+65,9125-79b4dcf2-defd-4628-afa6-2e31dc5999bc,explorer,0,12,"""some white wings purple feet with no antenna""",1638464262181
+66,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,explorer,0,30,"""Yep I think you progress it your side """,1638464269373
+67,7111-bc378748-4c72-449d-924b-df4dce9057b1,explorer,0,33,"""All the colours seemed as common as each other""",1638464272965
+68,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,explorer,0,30,"""Good luck!""",1638464273767
+69,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,explorer,0,34,"""No matter the leaf or stem colour, as long as it had an orange centre.""",1638464273918
+70,6974-547e2a24-2c44-49a4-a0d3-025bef405760,student,0,5,"""Hello""",1638464279405
+71,5514-bb081ca4-4593-474b-84e4-cc79851c10b1,student,1,28,"""this one seems okay though, i'll give it a go!""",1638464282133
+72,2438-ec0ee85f-c872-456b-99d4-1723e0dd5058,student,0,49,"""what kind of animal is a lozak?""",1638464286981
+73,9125-79b4dcf2-defd-4628-afa6-2e31dc5999bc,explorer,0,12,"""the ones without wings have orange bodies""",1638464295615
+74,7111-bc378748-4c72-449d-924b-df4dce9057b1,student,0,33,"""Ok. But more leaves and fruit. Anything else of note?""",1638464297762
+75,2438-ec0ee85f-c872-456b-99d4-1723e0dd5058,explorer,0,49,"""Hi. It's a bird""",1638464301344
+76,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,explorer,0,34,"""There was 2 random ones that I couldn't connect as to why they were zorbs.""",1638464306722
+77,9125-79b4dcf2-defd-4628-afa6-2e31dc5999bc,student,0,12,"""ok. lol""",1638464308107
+78,2438-ec0ee85f-c872-456b-99d4-1723e0dd5058,explorer,0,49,"""But it has certain characteristics.""",1638464311757
+79,9125-79b4dcf2-defd-4628-afa6-2e31dc5999bc,explorer,0,12,"""they all look the same haha""",1638464316153
+80,9125-79b4dcf2-defd-4628-afa6-2e31dc5999bc,explorer,0,12,"""its really hard""",1638464321514
+81,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,explorer,0,34,"""But click all with orange centre where bee collects pollen.""",1638464325115
+82,2438-ec0ee85f-c872-456b-99d4-1723e0dd5058,student,0,49,"""tell me about its characteristics.""",1638464326788
+83,7111-bc378748-4c72-449d-924b-df4dce9057b1,explorer,0,33,"""That's it really. More colour also i'd say""",1638464331289
+84,9125-79b4dcf2-defd-4628-afa6-2e31dc5999bc,student,0,12,"""wow ok! I haven't seen anything yet. I'll try to remember""",1638464341106
+85,9125-79b4dcf2-defd-4628-afa6-2e31dc5999bc,student,0,12,"""is that all I need to know?""",1638464345986
+86,7111-bc378748-4c72-449d-924b-df4dce9057b1,student,0,33,"""Ok thanks. Shall we click continue?""",1638464353997
+87,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,explorer,0,34,"""ok?""",1638464354767
+88,7111-bc378748-4c72-449d-924b-df4dce9057b1,explorer,0,33,"""Yes""",1638464358989
+89,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,student,0,34,"""ok so a flower with an orange centre and a bee collecting pollen""",1638464362468
+90,7265-de683552-bac6-45cb-8884-c2904b92ca54,explorer,1,16,"""orange branches only!""",1638464368045
+91,9125-79b4dcf2-defd-4628-afa6-2e31dc5999bc,explorer,0,12,"""yes i think so but be warned they do all look very alike haha""",1638464377698
+92,2438-ec0ee85f-c872-456b-99d4-1723e0dd5058,explorer,0,49,"""If it has an orange wing together with tail colours of any colour, it is a Lozak. It is also a Lozak if if has a non-orange wing but BOTH head feathers and tail feathers of the same colour - as long as they are NOT orange""",1638464380432
+93,7265-de683552-bac6-45cb-8884-c2904b92ca54,explorer,1,16,"""not branch""",1638464383085
+94,7265-de683552-bac6-45cb-8884-c2904b92ca54,student,1,16,"""OK!""",1638464384238
+95,2438-ec0ee85f-c872-456b-99d4-1723e0dd5058,explorer,0,49,"""Does that make sense?""",1638464390450
+96,9125-79b4dcf2-defd-4628-afa6-2e31dc5999bc,student,0,12,"""guess I'm about to find out lol""",1638464397481
+97,7265-de683552-bac6-45cb-8884-c2904b92ca54,student,1,16,"""Is that all?""",1638464397752
+98,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,explorer,0,34,"""no bees are on the pictures but I just mean the center of the flower is orange. The very middle circle.""",1638464398454
+99,7265-de683552-bac6-45cb-8884-c2904b92ca54,explorer,1,16,"""sorry the main body of the tree is orange""",1638464402317
+100,9125-79b4dcf2-defd-4628-afa6-2e31dc5999bc,student,0,12,"""ok i'll go check it out. THanks!""",1638464404111
+101,7265-de683552-bac6-45cb-8884-c2904b92ca54,explorer,1,16,"""thats all!""",1638464407074
+102,9125-79b4dcf2-defd-4628-afa6-2e31dc5999bc,explorer,0,12,"""seeya""",1638464408595
+103,2438-ec0ee85f-c872-456b-99d4-1723e0dd5058,student,0,49,"""yes, I think so. """,1638464417057
+104,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,student,0,34,"""ok lets continue""",1638464419718
+105,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,explorer,0,34,"""yep!""",1638464425697
+106,5514-bb081ca4-4593-474b-84e4-cc79851c10b1,explorer,2,48,"""i think most of the birds with orange feathers are the right ones""",1638464433609
+107,2438-ec0ee85f-c872-456b-99d4-1723e0dd5058,explorer,0,49,"""So, if has a white wing, purple head feathers and purple tail figures, would it be a lozak?""",1638464448781
+108,5514-bb081ca4-4593-474b-84e4-cc79851c10b1,student,2,48,"""okay great. Anything else?""",1638464451804
+109,7265-de683552-bac6-45cb-8884-c2904b92ca54,student,2,26,"""Got it. Continue?""",1638464454595
+110,2438-ec0ee85f-c872-456b-99d4-1723e0dd5058,student,0,49,"""yes""",1638464457040
+111,6974-547e2a24-2c44-49a4-a0d3-025bef405760,explorer,0,5,"""Hello, Morseths all have 2 antennae and 8 legs. Some are all brown or all purple, some have brown purple or white heads.  Not all have antennae.  Some have purple legs, some white bodies or antennae.""",1638464466853
+112,2438-ec0ee85f-c872-456b-99d4-1723e0dd5058,explorer,0,49,""":-)""",1638464468077
+113,5514-bb081ca4-4593-474b-84e4-cc79851c10b1,explorer,2,48,"""not that i could see...""",1638464468229
+114,2438-ec0ee85f-c872-456b-99d4-1723e0dd5058,explorer,0,49,"""Correct""",1638464478412
+115,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,explorer,1,31,"""Hello again! """,1638464484369
+116,2438-ec0ee85f-c872-456b-99d4-1723e0dd5058,student,0,49,"""awesome! """,1638464486535
+117,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,explorer,1,31,"""So a zorb is a kind of bird. """,1638464493739
+118,2438-ec0ee85f-c872-456b-99d4-1723e0dd5058,explorer,0,49,"""And if it has an orange wing with white head feathers but no tail feathers?""",1638464509998
+119,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,student,1,31,"""ok""",1638464517378
+120,2438-ec0ee85f-c872-456b-99d4-1723e0dd5058,student,0,49,"""no""",1638464522916
+121,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,student,1,31,"""I thought I lost you there for a minute...""",1638464527064
+122,2438-ec0ee85f-c872-456b-99d4-1723e0dd5058,explorer,0,49,"""Yay!""",1638464527154
+123,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,explorer,1,31,"""If it has an orange wing (this one pointy thing next to its body) that's orange, it is definitely a zorb (to be continued).""",1638464531418
+124,2438-ec0ee85f-c872-456b-99d4-1723e0dd5058,explorer,0,49,"""I think you have it :-)""",1638464535009
+125,6974-547e2a24-2c44-49a4-a0d3-025bef405760,student,0,5,"""Which ones do not have antennae?""",1638464539774
+126,2438-ec0ee85f-c872-456b-99d4-1723e0dd5058,student,0,49,"""yay! do we hit continue now?""",1638464543524
+127,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,explorer,1,31,"""Oh you didn't lose me it's just that this pattern is a bit more complicated and it took me a bit more time to get it. """,1638464549694
+128,2438-ec0ee85f-c872-456b-99d4-1723e0dd5058,explorer,0,49,"""I guess so""",1638464550433
+129,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,explorer,1,31,"""So orange wing --> Zorb""",1638464559622
+130,5514-bb081ca4-4593-474b-84e4-cc79851c10b1,explorer,3,18,"""they all seem to have purple stems""",1638464560715
+131,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,student,1,31,"""yep""",1638464565004
+132,5514-bb081ca4-4593-474b-84e4-cc79851c10b1,explorer,3,18,"""that's all i could tell really""",1638464569190
+133,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,student,1,31,"""go on""",1638464578222
+134,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,explorer,1,31,"""But if it has a white wing, it is only a zorb if it has head feathers AND tail feathers that are both purple.""",1638464589431
+135,6974-547e2a24-2c44-49a4-a0d3-025bef405760,explorer,0,5,"""Can't remember but maybe 50%?""",1638464596089
+136,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,explorer,1,31,"""Yeah.""",1638464606729
+137,6974-547e2a24-2c44-49a4-a0d3-025bef405760,student,0,5,"""Okay""",1638464609150
+138,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,explorer,1,0,"""Ok this one is better!""",1638464609382
+139,7265-de683552-bac6-45cb-8884-c2904b92ca54,student,2,26,"""Hi""",1638464610925
+140,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,student,1,31,"""ok is that it?""",1638464611976
+141,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,explorer,1,31,"""I think so.""",1638464614387
+142,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,student,0,6,"""Hi""",1638464615414
+143,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,explorer,0,6,"""Hello. I was asked to identify morseths. """,1638464616917
+144,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,student,1,31,"""ok""",1638464619345
+145,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,student,1,0,"""Okay you were right the last one was really hard!""",1638464621253
+146,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,explorer,1,0,"""The morseths ALWAYS have an orange stem""",1638464626921
+147,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,student,0,6,"""ok""",1638464631445
+148,7111-bc378748-4c72-449d-924b-df4dce9057b1,explorer,1,23,"""You had to select from birds""",1638464633912
+149,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,explorer,1,0,"""Flower type creatures but an orange stem seems to be always a morseth""",1638464642651
+150,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,student,0,6,"""can you describe them please""",1638464652048
+151,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,explorer,0,6,"""Morseths seem to have long tail feathers """,1638464652997
+152,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,explorer,1,0,"""They can have swirls or spikes or swirls and spikes in a variety of colours""",1638464659818
+153,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,explorer,1,14,"""Ollers have a purple wing AND any colour hair on its head. Has to have both together.""",1638464660791
+154,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,student,0,6,"""any particular colour?""",1638464670469
+155,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,explorer,1,14,"""Purple wing and any colour hair on head.""",1638464671282
+156,7265-de683552-bac6-45cb-8884-c2904b92ca54,student,2,26,"""Are you there?""",1638464672024
+157,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,explorer,1,0,"""But the stem is the give away - if it has a different colour stem, it isn't a morseth""",1638464672120
+158,5514-bb081ca4-4593-474b-84e4-cc79851c10b1,explorer,4,38,"""zorbs all have orange wings""",1638464672859
+159,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,explorer,1,14,"""Ok?""",1638464673053
+160,7111-bc378748-4c72-449d-924b-df4dce9057b1,explorer,1,23,"""the particular species always had either a purple wing""",1638464674213
+161,7265-de683552-bac6-45cb-8884-c2904b92ca54,explorer,2,26,"""hello""",1638464675188
+162,7265-de683552-bac6-45cb-8884-c2904b92ca54,explorer,2,26,"""anything with spikes""",1638464682295
+163,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,student,1,14,"""ok""",1638464683272
+164,7265-de683552-bac6-45cb-8884-c2904b92ca54,student,2,26,"""Anything else?""",1638464686976
+165,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,explorer,0,6,"""No, they were all different colors. But they all had long tail feathers""",1638464687780
+166,7111-bc378748-4c72-449d-924b-df4dce9057b1,explorer,1,23,"""or they had a combination of a white wing and purple head feathers""",1638464690309
+167,5514-bb081ca4-4593-474b-84e4-cc79851c10b1,student,4,38,"""any spikes or twirls?""",1638464692538
+168,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,explorer,1,0,"""There didn't appear to be any that had an orange stem that wasn't a morseth either""",1638464700848
+169,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,student,1,14,"""continue?""",1638464701812
+170,7265-de683552-bac6-45cb-8884-c2904b92ca54,explorer,2,26,"""no""",1638464702470
+171,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,explorer,1,14,"""Yes.""",1638464706201
+172,7265-de683552-bac6-45cb-8884-c2904b92ca54,student,2,26,"""OK, I'll try it. """,1638464707603
+173,5514-bb081ca4-4593-474b-84e4-cc79851c10b1,explorer,4,38,"""some do as well""",1638464711224
+174,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,student,0,6,"""anything else distinguishing about them?""",1638464716751
+175,5514-bb081ca4-4593-474b-84e4-cc79851c10b1,student,4,38,"""so orange wings and spikes maybe?""",1638464724500
+176,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,student,1,0,"""Okay that is helpful! So any orange stem is auto indicator that it is a Morseth""",1638464725973
+177,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,explorer,1,0,"""So essentially orange stem = correct""",1638464729667
+178,5514-bb081ca4-4593-474b-84e4-cc79851c10b1,explorer,4,38,"""i'd select all the ones with orange wings""",1638464732173
+179,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,explorer,1,0,"""Yep""",1638464732551
+180,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,student,1,0,"""Okay that is great, anything else? """,1638464741030
+181,5514-bb081ca4-4593-474b-84e4-cc79851c10b1,student,4,38,"""okay. i'll go with that.""",1638464742269
+182,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,explorer,0,6,"""No, that was all I could see that was distinguishing about them""",1638464743809
+183,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,explorer,1,0,"""No I think that's it """,1638464747192
+184,7111-bc378748-4c72-449d-924b-df4dce9057b1,student,1,23,"""All the same size again? Anything relevant in the position of the bird, ie flying or resting?""",1638464760717
+185,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,student,0,6,"""What sort of creatures are they?""",1638464766160
+186,7111-bc378748-4c72-449d-924b-df4dce9057b1,explorer,1,23,"""All the same size and in the same position""",1638464771883
+187,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,explorer,0,6,"""They're birds""",1638464772920
+188,7111-bc378748-4c72-449d-924b-df4dce9057b1,student,1,23,"""All the same bird then, other than the colouring?""",1638464789144
+189,7111-bc378748-4c72-449d-924b-df4dce9057b1,explorer,1,23,"""Yes""",1638464793153
+190,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,student,0,6,"""did they appear large or small birds?""",1638464807488
+191,7111-bc378748-4c72-449d-924b-df4dce9057b1,student,1,23,"""OK, purple wing or white wing/purple headfeathers combination""",1638464822046
+192,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,explorer,0,6,"""They were roughly the same size""",1638464826009
+193,7111-bc378748-4c72-449d-924b-df4dce9057b1,explorer,1,23,"""yes""",1638464826189
+194,7111-bc378748-4c72-449d-924b-df4dce9057b1,student,1,23,"""Anything else or shall we click continue?""",1638464840199
+195,7111-bc378748-4c72-449d-924b-df4dce9057b1,explorer,1,23,"""we can continue""",1638464844833
+196,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,student,0,6,"""What else can you tell me about them?""",1638464847475
+197,7111-bc378748-4c72-449d-924b-df4dce9057b1,student,1,23,"""thanks""",1638464850597
+198,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,explorer,0,6,"""Some have mohawks but that doesn't seem to be a determining factor in whether or not they're morseths""",1638464875570
+199,7265-de683552-bac6-45cb-8884-c2904b92ca54,explorer,3,6,"""white purple or orange long wings""",1638464903546
+200,7265-de683552-bac6-45cb-8884-c2904b92ca54,explorer,3,6,"""only""",1638464908061
+201,7265-de683552-bac6-45cb-8884-c2904b92ca54,student,3,6,"""OK""",1638464909109
+202,7265-de683552-bac6-45cb-8884-c2904b92ca54,student,3,6,"""Thanks!""",1638464911549
+203,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,student,0,6,"""Was there anything that stood out about their beaks, claws, wings etc""",1638464926569
+204,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,explorer,2,10,"""That was better! :-)""",1638464930449
+205,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,explorer,2,10,"""Right...""",1638464932650
+206,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,explorer,2,4,"""This time the bug thing has an orange head.""",1638464940141
+207,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,student,2,10,"""Yes that time was much easier to decipher!""",1638464952052
+208,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,explorer,2,10,"""The oller species are a type of fish - the correct ones ALWAYS have an orange body and purple stripes on their bodies""",1638464956836
+209,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,explorer,0,6,"""No, they all had the same eyes, beaks, wings. The only thing that was different was the length of their tail feathers""",1638464964537
+210,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,explorer,2,4,"""Doesn't matter about antenna or anything else on body.""",1638464967914
+211,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,explorer,2,4,"""As long as head beneath eyes is orange.""",1638464980261
+212,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,explorer,2,10,"""They can have whiskers or a spike sort of thing or both in the mouth - you can ignore that and also the colour of the fin on the top also doesn't matter""",1638464992042
+213,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,explorer,2,4,"""orange head only. """,1638465000146
+214,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,explorer,2,10,"""The indicator is the orange body and purple stripes""",1638465003837
+215,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,student,2,4,"""ok orange head under eyes""",1638465013822
+216,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,student,0,6,"""so they looked like any other bird, the only distinction being long tail feathers??""",1638465014208
+217,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,student,2,10,"""Orange body and purple stripes, got it!""",1638465018642
+218,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,explorer,2,4,"""don't look at antenna that can be any colour.""",1638465019988
+219,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,explorer,2,4,"""just orange head.""",1638465025735
+220,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,explorer,2,4,"""yes.""",1638465027827
+221,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,student,2,4,"""ok lets go""",1638465040805
+222,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,explorer,2,4,"""yes.""",1638465043943
+223,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,explorer,0,6,"""yes""",1638465049734
+224,7111-bc378748-4c72-449d-924b-df4dce9057b1,explorer,2,3,"""they were all fish with varying looks""",1638465071409
+225,7111-bc378748-4c72-449d-924b-df4dce9057b1,explorer,2,3,"""but the only thing that seperated them was 3 long whiskers on their face""",1638465088025
+226,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,student,0,6,"""Ok, is there anything else that you think might hlp me identify them?""",1638465100971
+227,7111-bc378748-4c72-449d-924b-df4dce9057b1,explorer,2,3,"""nothing else seemed to matter""",1638465105283
+228,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,student,0,6,"""*help""",1638465114585
+229,7111-bc378748-4c72-449d-924b-df4dce9057b1,student,2,3,"""So we should select all the ones with 3 long facial whiskers?""",1638465130489
+230,7111-bc378748-4c72-449d-924b-df4dce9057b1,explorer,2,3,"""yes""",1638465133880
+231,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,explorer,0,6,"""Not that I can think of. Every creature with long tail feathers was a morseth.""",1638465141157
+232,7111-bc378748-4c72-449d-924b-df4dce9057b1,student,2,3,"""Clear enough. Continue?""",1638465150187
+233,7111-bc378748-4c72-449d-924b-df4dce9057b1,explorer,2,3,"""yes""",1638465153381
+234,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,student,0,6,"""ok, I think I'll continue now then. Thanks :)""",1638465164799
+235,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,explorer,0,6,"""Thank you! :)""",1638465172568
+236,7265-de683552-bac6-45cb-8884-c2904b92ca54,explorer,4,36,"""orange fish with purple stripes""",1638465191530
+237,7265-de683552-bac6-45cb-8884-c2904b92ca54,student,4,36,"""Thanks!""",1638465195984
+238,6974-547e2a24-2c44-49a4-a0d3-025bef405760,explorer,1,25,"""Kweps are tree-shaped organisms.  Stems may be green brown lilac red or white.  Leaves are similarly coloured.  They never loose their leaves.""",1638465197290
+239,7265-de683552-bac6-45cb-8884-c2904b92ca54,explorer,4,36,"""purple fish with orange stripes""",1638465201530
+240,7265-de683552-bac6-45cb-8884-c2904b92ca54,explorer,4,36,"""orange fish with white stripes""",1638465213425
+241,7265-de683552-bac6-45cb-8884-c2904b92ca54,student,4,36,"""That it?""",1638465225468
+242,6974-547e2a24-2c44-49a4-a0d3-025bef405760,student,1,25,"""Okay""",1638465233669
+243,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,explorer,2,21,"""Hello! Sorry to keep you waiting. This one was really tough.""",1638465280063
+244,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,explorer,2,21,"""Okay. All critters with purple wings are kweps.""",1638465296225
+245,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,student,2,21,"""you don't have to take a long time.... if you don't know just tell me, we are running out of time here""",1638465301026
+246,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,explorer,2,21,"""White wings are kweps if it has wither orange or purple in it, but not both.""",1638465333470
+247,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,student,3,40,"""How did this one go? """,1638465333990
+248,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,explorer,3,40,"""Little more complex but I can see the pattern""",1638465345099
+249,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,explorer,2,21,"""Orange wings are kweps if they have no or white antennae.""",1638465345235
+250,7111-bc378748-4c72-449d-924b-df4dce9057b1,explorer,3,43,"""Sorry got no idea""",1638465356514
+251,7111-bc378748-4c72-449d-924b-df4dce9057b1,student,3,43,"""Ha ha""",1638465363832
+252,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,explorer,3,40,"""So they are tree like things - they seem to have either purple, green or blue trunks""",1638465366766
+253,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,explorer,2,21,"""No wings are kweps if ONLY the head and body are coloured, and the legs and antennae aren't.""",1638465367669
+254,7111-bc378748-4c72-449d-924b-df4dce9057b1,explorer,3,43,"""They are all flowers but I cant see any patterns""",1638465368572
+255,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,explorer,2,21,"""Ok done.""",1638465371885
+256,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,explorer,2,21,"""We don't have a time limit. """,1638465382325
+257,7111-bc378748-4c72-449d-924b-df4dce9057b1,student,3,43,"""It isn't easy is it. Any change in the shape or the colour?""",1638465388505
+258,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,student,1,36,"""Hi""",1638465388975
+259,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,student,2,21,"""we have to submit it on prolific""",1638465390026
+260,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,student,2,21,"""before the timer runs out""",1638465395730
+261,7111-bc378748-4c72-449d-924b-df4dce9057b1,explorer,3,43,"""it seemed to be about 25% of them were it""",1638465398555
+262,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,explorer,1,36,"""Hello. A zorb is a fish with three long whiskers coming out of their face.""",1638465407701
+263,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,explorer,2,21,"""25 more minutes and 2 more trials. """,1638465411128
+264,7111-bc378748-4c72-449d-924b-df4dce9057b1,explorer,3,43,"""Lots of changes of colour and pettles etc but i couldn't figure out what was what""",1638465414394
+265,7111-bc378748-4c72-449d-924b-df4dce9057b1,student,3,43,"""Number of leaves or petals?""",1638465415080
+266,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,explorer,3,24,"""2 different characteristics to look out for.""",1638465416074
+267,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,explorer,3,40,"""They can have different colour 'petals' on the trees - I picked up blue, purple, orange and white (I don't think they are particularly a determining factor but worth mentioning)""",1638465418097
+268,7111-bc378748-4c72-449d-924b-df4dce9057b1,explorer,3,43,"""i dont think so""",1638465420360
+269,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,explorer,1,36,"""sometimes they also have one short whisker, but they always have three long whiskers""",1638465421249
+270,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,student,2,21,"""yes, but I don't want to wait 25 more minutes""",1638465427445
+271,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,student,1,36,"""Anything else distinctive?""",1638465430066
+272,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,explorer,2,21,"""Ok.""",1638465431380
+273,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,explorer,3,24,"""1st one is if there is any white part of the tree it's correct.""",1638465434301
+274,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,explorer,3,24,"""so no matter if its the trunk, berries or leaves. """,1638465447325
+275,7111-bc378748-4c72-449d-924b-df4dce9057b1,student,3,43,"""Anything at all? What are you going to be clicking on?""",1638465450897
+276,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,student,2,21,"""ok""",1638465453459
+277,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,explorer,3,24,"""If it is white then it's correct.""",1638465457419
+278,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,explorer,3,40,"""All the correct ones have swirling like patterns on their branches and they ALWAYS have ORANGE ""berries"" - circles that are on the branches""",1638465461601
+279,7111-bc378748-4c72-449d-924b-df4dce9057b1,explorer,3,43,"""nothing so i dont lose points""",1638465466509
+280,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,explorer,1,36,"""No, that's the only distinctive characteristic that I could see. All zorbs have the three long whiskers""",1638465468857
+281,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,explorer,3,24,"""2nd is look at the berries on the tree. If they are purple then also correct.""",1638465476017
+282,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,student,3,24,"""100% last time .. we can do it""",1638465476390
+283,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,student,1,36,"""Ok, I'll continue thanks""",1638465481947
+284,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,explorer,1,36,"""Thank you!""",1638465485869
+285,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,student,3,40,"""These are great descriptions!""",1638465503969
+286,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,student,3,40,"""Got it!""",1638465508149
+287,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,explorer,3,24,"""so look closely, look for white on the tree or purple berries hanging on the tree.""",1638465512869
+288,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,explorer,3,24,"""berries can also be white remember.""",1638465520176
+289,7111-bc378748-4c72-449d-924b-df4dce9057b1,student,3,43,"""Or is it better to click on all of them? Up to now the majority of the ones seem to be of the right species. What do you think?""",1638465528041
+290,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,explorer,3,24,"""only needs one thing to be white.""",1638465539345
+291,7111-bc378748-4c72-449d-924b-df4dce9057b1,explorer,3,43,"""it was about 25% of them so it's more likely than not to not be one""",1638465546019
+292,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,explorer,3,24,"""or purple berries.""",1638465546124
+293,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,student,3,24,"""ok so any tree with white OR PURPLE berries""",1638465551715
+294,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,explorer,3,24,"""so you can have blue tree with purple berries and no white thats correct.""",1638465562368
+295,7111-bc378748-4c72-449d-924b-df4dce9057b1,student,3,43,"""Ah yes, sorry. Ok, click on none of them then?""",1638465567353
+296,7111-bc378748-4c72-449d-924b-df4dce9057b1,explorer,3,43,"""yes""",1638465571517
+297,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,student,3,24,"""I mean any white part""",1638465573475
+298,7111-bc378748-4c72-449d-924b-df4dce9057b1,student,3,43,"""Ok, continuing now""",1638465584009
+299,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,student,3,24,"""ok got it lets go""",1638465591091
+300,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,explorer,3,24,"""or blue tree with white leaves.""",1638465597800
+301,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,explorer,3,24,"""ok i hope that makes sense.""",1638465604246
+302,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,explorer,3,41,"""Luzaks have white leaves. """,1638465649437
+303,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,explorer,3,41,"""That's it. Ignore the berries and stalk colour.""",1638465661555
+304,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,student,3,41,"""ok""",1638465668728
+305,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,student,3,41,"""continue""",1638465670669
+306,7111-bc378748-4c72-449d-924b-df4dce9057b1,explorer,4,13,"""The ones had a combination of both wings and antenna""",1638465786419
+307,7111-bc378748-4c72-449d-924b-df4dce9057b1,explorer,4,13,"""i think that was the only trait""",1638465804230
+308,7111-bc378748-4c72-449d-924b-df4dce9057b1,student,4,13,"""Ok. Click on ones that have wings and antenna?""",1638465831414
+309,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,explorer,4,11,"""Oller fishes have white stripes and long whiskers.""",1638465831853
+310,7111-bc378748-4c72-449d-924b-df4dce9057b1,explorer,4,13,"""yes""",1638465834833
+311,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,explorer,4,11,"""Done.""",1638465835128
+312,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,student,4,11,"""ok""",1638465845029
+313,4672-91dbae67-e729-4075-9fb6-cda256cc58fc,student,4,11,"""continue""",1638465847573
+314,7111-bc378748-4c72-449d-924b-df4dce9057b1,student,4,13,"""Excellent, and continuing""",1638465848636
+315,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,explorer,4,20,"""Hi okay bit tougher again""",1638465902589
+316,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,explorer,4,20,"""This time the best way to work out the difference is spotting the ones that are NOT the creature """,1638465920640
+317,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,explorer,4,20,"""So the following are features of the wrong creature - """,1638465929719
+318,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,explorer,4,20,"""They NEVER have wings whereby the correct creature can have wings or not """,1638465951093
+319,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,explorer,4,20,"""They can come in a variety of colours, they can have anntannaes or not so the only real features sticks out is that they never have wings""",1638465991392
+320,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,explorer,4,20,"""Problem is the correct ones can also be wingless etc. so it's partly a bit luck of the draw on this """,1638466016053
+321,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,student,4,20,"""So anything that is wingless is not the correct creature?""",1638466062733
+322,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,explorer,4,20,"""The correct creature can also be wingless but the wrong creature never has wings - so if it has wings, it's definitely the right one""",1638466091309
+323,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,explorer,4,20,"""The creatures without wings will be a bit more hazy as it has the potential to go either way """,1638466108580
+324,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,explorer,4,20,"""But wings you can be safe to have as correct""",1638466117845
+325,0196-07e1f9a5-341c-4d9c-b863-b2c450ad6313,student,4,20,"""Okay I understand, I'll try my best :)""",1638466129019
+326,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,student,2,26,"""Hey""",1638466179652
+327,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,explorer,2,26,"""This one is tough. Kweps are flowers. If there are spikes going up the stem then they are definitely kweps""",1638466203665
+328,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,explorer,2,26,"""A few of them didn't have spikes and I really couldn't see anything different between them and non kweps""",1638466223415
+329,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,student,2,26,"""Anything else that stood out? Colours, number of petals etc""",1638466264527
+330,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,explorer,4,44,"""ok so easiest ones to identify are the ones with the 3 whiskers AND a long tooth.""",1638466324460
+331,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,explorer,4,44,"""then there are some with 3 whiskers, no tooth but has to be an orange body.""",1638466349733
+332,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,explorer,2,26,"""No, some have patterns on half of the petals but that doesn't seem to determine whether or not they're kweps. Most of them were easy to see because of the spikes going up the stem. Maybe 3 of them didn't have spikes""",1638466362581
+333,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,explorer,4,44,"""no stripes on it but the actual body.""",1638466363088
+334,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,explorer,4,44,"""So first pick all fish with 3 whiskers and a long tooth.""",1638466380181
+335,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,explorer,2,26,"""But those looked identical from what I could see, to non kweps""",1638466389715
+336,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,explorer,4,44,"""Then go back and look for fish with 3 whiskers and an orange main body.""",1638466399649
+337,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,student,2,26,"""Ok, I'll continue then, thanks :)""",1638466429513
+338,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,explorer,4,44,"""ok?""",1638466431128
+339,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,explorer,2,26,"""Thank you :)""",1638466435601
+340,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,student,4,44,"""ok 3 whiskers+long tooth, then 3W no teeth and Orange body""",1638466444913
+341,3599-50b880e8-61c2-4fe6-ad9a-feedae558c8c,explorer,4,44,"""yes exactly.""",1638466455797
+342,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,explorer,3,16,"""hey! :D""",1638466645401
+343,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,student,3,16,"""Hey""",1638466654269
+344,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,student,3,16,"""Tell me about ollers""",1638466687849
+345,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,explorer,3,16,"""Ollers are trees. All ollers have orange trunks. There weren't any orange colored trunks that were not ollers""",1638466691559
+346,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,student,3,16,"""Anything else?""",1638466712841
+347,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,explorer,3,16,"""Nope, that's all""",1638466723321
+348,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,student,3,16,"""Ok, I'll try that :)""",1638466735252
+349,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,explorer,3,16,"""Ok :)""",1638466740917
+350,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,student,4,46,"""Hey""",1638467007805
+351,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,student,4,46,"""What can you tell me about luzaks?""",1638467020470
+352,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,explorer,4,46,"""Hello. A luzak is a caterpillar or butterfly. All luzaks had a purple body/abdomen""",1638467036568
+353,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,explorer,4,46,"""The other colors and number of spikes didn't seem to matter. """,1638467065624
+354,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,explorer,4,46,"""The only constant was the purple body""",1638467074693
+355,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,student,4,46,"""Ok""",1638467086759
+356,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,explorer,4,46,"""The head color doesn't seem to factor into it either, it's only the actual body color""",1638467096231
+357,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,student,4,46,"""Great, I'll try the purple bodies then, so all butterflies and caterpillars with purple bodies?""",1638467141933
+358,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,explorer,4,46,"""Yes""",1638467147645
+359,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,explorer,4,46,"""Thank you, it was nice working with you! Hope you have a good day :D""",1638467202327
+360,1907-3fe920b9-b2fb-40c8-9086-21ba0379ef26,student,4,46,"""Fab, nice working with you too :)""",1638467214226

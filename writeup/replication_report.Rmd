@@ -76,7 +76,9 @@ to compensate for the smaller user base on Prolific. Otherwise, I will follow th
 You can comment this section out prior to final report with data collection.
 
 #### Actual Sample
-  Sample size, demographics, data exclusions based on rules spelled out in analysis plan
+I gathered a data from a total of 20 participants (10 pairs), 12 of whom reported
+their sex as female and 8 of whom reported it as male. The mean age was 42.2 (sd: 15.4).
+It took an average of 33 minutes for participants to complete the experiment, lower than the 15 minutes reported in the original paper. This meant that I had to pay the participants more to adequately compensate them for their time, so I gathered a smaller sample to stay within my budget. No participants were excluded. 
 
 #### Differences from pre-data collection methods plan
   I had difficulty attracting participants quickly enough to pair them together
@@ -128,8 +130,8 @@ rule_types <- c("SINGLE_FEATURE", "CONJUNCTION", "DISJUNCTION",
 library(tidyverse)
 
 ####Import data
-df_scores <- read.csv("../replication_analysis/processed_data/pilotB/scores.csv")
-df_tests <- read.csv("../replication_analysis/processed_data/pilotB/tests.csv")
+df_scores <- read.csv("../replication_analysis/processed_data/full/scores.csv")
+df_tests <- read.csv("../replication_analysis/processed_data/full/tests.csv")
 
 #### Data exclusion / filtering
 # this would contain games I have manually identified as full of nonsensical conversations
@@ -143,7 +145,7 @@ df_tests <- df_tests |>
 
 #### Prepare data for analysis - create columns etc.
 
-# split explorer and student test data
+# split teacher and student test data
 explorer_tests <- df_tests |>
   filter(role == "explorer") |>
   select(game_id, role, round_num, predicted_label, rule_idx, stim_num, true_label)
@@ -154,6 +156,7 @@ student_tests <- df_tests |>
   select(game_id, role, round_num, predicted_label, rule_idx, stim_num)
 colnames(student_tests)[4] = "student_pred_label"
 
+# recombine them and add correctness and rule type information
 combined_tests <- explorer_tests |>
   inner_join(student_tests, by=c("game_id", "round_num", "rule_idx", "stim_num")) |>
   rowwise() |>
@@ -177,7 +180,7 @@ The main test I will run is measuring the Pearson correlation between teacher ac
 Here is the code I used to compute this in Pilot B:
 
 ```{r include=T}
-# scatter plot of explorer accuracy and student-teacher Hamming distance
+# scatter plot of teacher accuracy and student-teacher Hamming distance
 ggplot(hamming_distances, aes(x=explorer_accuracy, y=explorer_student, color=rule_type, group=1)) +
   geom_point(size=3) +
   geom_smooth(method="lm", color="black") +
@@ -187,6 +190,7 @@ ggplot(hamming_distances, aes(x=explorer_accuracy, y=explorer_student, color=rul
 
 ggsave("hamming_distance_corr_plot.png", bg="white")
 
+# plot teacher accuracies vs student accuracies
 ggplot(hamming_distances, aes(x=explorer_accuracy, y=student_accuracy,
                               color=rule_type, group=1)) +
   geom_point(size=3) +
@@ -210,15 +214,16 @@ hamming_distances |>
   geom_errorbar(aes(ymin = mean_acc - ci_acc/2, ymax = mean_acc + ci_acc/2),
                 position=position_dodge(0.9), color="black", width=0) +
   labs(x="Rule Type", y="Mean Accuracy") +
-  theme_minimal()
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle=15))
 
 ggsave("explorer_student_accuracy.png", height=7, width=14, bg="white")
 
-# correlation between explorer accuracy and explorer-student hamming distance
+# correlation between teacher accuracy and teacher-student hamming distance
 cor.test(hamming_distances$explorer_student, hamming_distances$explorer_accuracy,
          method="pearson")
 
-# correlation between explorer accuracy and student accuracy
+# correlation between teacher accuracy and student accuracy
 cor.test(hamming_distances$student_accuracy, hamming_distances$explorer_accuracy,
          method="pearson")
 
@@ -242,8 +247,33 @@ print(t.test(hamming_distances$explorer_accuracy, hamming_distances$student_accu
 
 ### Summary of Replication Attempt
 
-Open the discussion section with a paragraph summarizing the primary result from the confirmatory analysis and the assessment of whether it replicated, partially replicated, or failed to replicate the original result.  
+The two main quantitative results from the original paper -- the negative correlation
+between teacher accuracy and student-teacher Hamming distance and the positive correlation between teacher accuracy and student accuracy --
+were both replicated. Furthermore, the pattern of accuracies across rule types 
+looked similar to that in the original paper, as evidenced by the bar plot. Therefore,
+I consider this to be a successful replication.
 
 ### Commentary
 
-Add open-ended commentary (if any) reflecting (a) insights from follow-up exploratory analysis, (b) assessment of the meaning of the replication (or not) - e.g., for a failure to replicate, are the differences between original and present study ones that definitely, plausibly, or are unlikely to have been moderators of the result, and (c) discussion of any objections or challenges raised by the current and original authors about the replication attempt.  None of these need to be long.
+Ultimately, I believe that this can be considered a successful replication and it
+increases my confidence in the main findings of the paper. This strengthens my 
+confidence in the findings, which is valuable for future work building off them.
+
+That said, there were some interesting differences between the samples reported
+in the original paper and this one. For instance, participants spent much more
+time on the experiment in the replication compared to the original version, 
+33 minutes vs. 15 minutes. Furthermore, participants in the replication appeared
+to do better at the task compared to those in the original experiment. It could
+be the case that participants on Prolific might be slower and more careful in
+learning the rules and making sure their partner understands them compared to 
+those on MTurk.
+
+Another notable difference between the original study and my replication is that 
+the original study averaged the student and teacher performances on the same concept
+(or rule) when computing the correlation between teacher performance and 
+student-teacher Hamming distance. Since they had multiple observations per 
+concept, this reduced the noise in the measurements. I did not have a large
+enough sample size for this, so I simply measured the correlation for individual 
+rounds. This could explain why I found a weaker correlation (-0.53) than was 
+reported in the original paper (-0.75).
+

@@ -14,8 +14,8 @@ label_rule = function(rule_idx) {
   }
 }
 
-df_scores <- read.csv("./processed_data/pilotB/scores.csv")
-df_tests <- read.csv("./processed_data/pilotB/tests.csv")
+df_scores <- read.csv("./processed_data/full/scores.csv")
+df_tests <- read.csv("./processed_data/full/tests.csv")
 
 explorer_tests <- df_tests |>
   filter(role == "explorer") |>
@@ -70,7 +70,7 @@ cor.test(hamming_distances$explorer_student, hamming_distances$explorer_accuracy
 
 ggsave("accuracy_bar_plot.png")
 
-df_prolific = read.csv("./processed_data/pilotB/prolific.csv")
+df_prolific = read.csv("./processed_data/full/prolific.csv")
 
 # compute bonuses for each player
 df_bonuses <- df_scores |>

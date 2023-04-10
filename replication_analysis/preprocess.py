@@ -7,7 +7,7 @@ parser = ArgumentParser()
 parser.add_argument("filename", type=str)
 
 RAW_DATA_FOLDER = "./raw_data"
-OUTPUT_FOLDER = "./processed_data/pilotB"
+OUTPUT_FOLDER = "./processed_data/full"
 
 if __name__ == "__main__":
 
